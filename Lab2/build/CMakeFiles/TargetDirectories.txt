@@ -1,0 +1,5 @@
+/home/runner/PO/Lab2/build/CMakeFiles/rebuild_cache.dir
+/home/runner/PO/Lab2/build/CMakeFiles/check.dir
+/home/runner/PO/Lab2/build/CMakeFiles/edit_cache.dir
+/home/runner/PO/Lab2/build/CMakeFiles/main.dir
+/home/runner/PO/Lab2/build/CMakeFiles/run.dir

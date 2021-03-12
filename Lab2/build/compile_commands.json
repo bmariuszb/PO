@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/runner/PO/Lab2/build",
+  "command": "/usr/bin/c++   -I/home/runner/PO/Lab2/include  -Wall -g   -Wall -std=gnu++1z -o CMakeFiles/main.dir/main.cpp.o -c /home/runner/PO/Lab2/main.cpp",
+  "file": "/home/runner/PO/Lab2/main.cpp"
+},
+{
+  "directory": "/home/runner/PO/Lab2/build",
+  "command": "/usr/bin/c++   -I/home/runner/PO/Lab2/include  -Wall -g   -Wall -std=gnu++1z -o CMakeFiles/main.dir/src/ComplexNumber.cpp.o -c /home/runner/PO/Lab2/src/ComplexNumber.cpp",
+  "file": "/home/runner/PO/Lab2/src/ComplexNumber.cpp"
+}
+]

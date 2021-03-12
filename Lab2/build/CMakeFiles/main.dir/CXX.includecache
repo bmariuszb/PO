@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/ComplexNumber.h
+iostream
+-
+
+/home/runner/PO/Lab2/main.cpp
+iostream
+-
+ComplexNumber.h
+/home/runner/PO/Lab2/ComplexNumber.h
+
+/home/runner/PO/Lab2/src/ComplexNumber.cpp
+ComplexNumber.h
+/home/runner/PO/Lab2/src/ComplexNumber.h
+
